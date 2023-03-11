@@ -1,0 +1,6 @@
+{
+  "require": {
+    "halaxa/json-machine":"*",
+    "guzzlehttp/guzzle": "^7.5"
+  }
+}
